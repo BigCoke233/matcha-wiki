@@ -3,11 +3,6 @@ import { assetPrefix } from "../config/constants";
 
 export function Logo() {
   return (
-    <Image
-      src={`${assetPrefix}/logo.png`}
-      alt="Reading notes homepage"
-      width={30}
-      height={30}
-    />
+    <h1><strong>Matcha</strong> · 使用指南</h1>
   );
 }

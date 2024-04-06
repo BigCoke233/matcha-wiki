@@ -7,11 +7,11 @@ import { Logo } from "./components/Logo";
 const config: DocsThemeConfig = {
   logo: <Logo />,
   project: {
-    link: "https://github.com/mkrtchian/reading-notes",
+    link: "https://github.com/BigCoke233/matcha-doc",
   },
-  docsRepositoryBase: "https://github.com/mkrtchian/reading-notes/blob/main",
+  docsRepositoryBase: "https://github.com/BigCoke233/matcha-doc/blob/main",
   footer: {
-    text: "Made by Roman Mkrtchian",
+    text: "The Typecho theme, Matcha",
   },
   head: Head,
   feedback: {
