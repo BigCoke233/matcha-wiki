@@ -1,7 +1,7 @@
 import { assetPrefix, description } from "../config/constants";
 
 export function Head() {
-  const title = "Reading notes";
+  const title = "Matcha 主题";
   return (
     <>
       <meta name="msapplication-TileColor" content="#fff" />
